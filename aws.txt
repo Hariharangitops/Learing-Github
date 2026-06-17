@@ -1,1 +1,5 @@
 Welcome to AWS project
+IAM
+EC2
+S3
+ECS
