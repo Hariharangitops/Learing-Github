@@ -3,7 +3,7 @@ def subtract(x, y): return x - y
 def multiply(x, y): return x * y
 def divide(x, y): return x / y if y != 0 else "Error"
 
-def calculator():
+def calc():
     while True:
         choice = input("Op (1:+/2:-/3:*/4:/:5:Exit): ")
         if choice == '5': break
@@ -13,4 +13,4 @@ def calculator():
             print("Result:", ops[choice](n1, n2))
 
 if __name__ == "__main__":
-    calculator()
+    calc()
