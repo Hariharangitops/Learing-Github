@@ -1,1 +1,2 @@
-print (Welcome to terraform)
+print("Welcome to terraform")
+print("Terraform invented by hasicorp")
