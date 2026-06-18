@@ -3,3 +3,5 @@ IAM
 EC2
 S3
 ECS
+LAMBDA
+Cloudwatch
